@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craftotega&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
 
-- 🔭 I’m currently working on **school website project**
+- 🔭 I’m currently working on **eCommerce project**
 
 - 🌱 I’m currently exploring the integration of **Laravel, Livewire, and Alpine.js, among other technologies, to build dynamic and efficient web applications.**
 
